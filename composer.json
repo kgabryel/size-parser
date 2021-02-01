@@ -1,0 +1,11 @@
+{
+  "name": "frankie/size-parser",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\SizeParser\\": "src"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.3"
+  }
+}
